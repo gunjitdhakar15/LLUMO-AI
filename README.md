@@ -11,8 +11,8 @@ Python + MongoDB assessment solution (FastAPI).
 - MongoDB running locally (`mongodb://localhost:27017`)
 
 ### Install Dependencies
-```bash
-pip install -r requirements.txt
+
+```pip install -r requirements.txt```
 
 
 ## Endpoints
